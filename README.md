@@ -21,9 +21,9 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 • Data Visualization: Power bi was used as a data visualization tool to better understand the relationship in the dataset and create an interactive dashboard like student performance across gender, parental education, and race/ethnicity.
   
 ## Tools
-1.Microsoft Excel
-2.MySql
-3.Powerbi
+1. Microsoft Excel
+2. Mysql
+3. Powerbi
 
 ##  Insights & Findings
 - The dataset contained a total of 1000 students with the majority being females (518) and males (482).
