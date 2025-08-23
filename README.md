@@ -22,8 +22,8 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
   
 ## Tools
 1. Microsoft Excel
-2. Mysql
-3. Powerbi
+2. SQL Server
+3. PowerBI
 
 ##  Insights & Findings
 - The dataset contained a total of 1000 students with the majority being females (518) and males (482).
